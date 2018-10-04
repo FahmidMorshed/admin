@@ -7,3 +7,4 @@
 - smajumd3@ncsu.edu
 - hqtu@ncsu.edu
 - txia4@ncsu.edu
+- ffahid@ncsu.edu
